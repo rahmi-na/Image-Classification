@@ -2,5 +2,5 @@
 
 ## Nama Kelompok 
 
-##Nama Ketua : Fahmi Ali Husni (201910370311330)
-##Nama Anggota : Rahmi Nurazizah (201910370311318)
+## Fahmi Ali Husni (201910370311330) - Ketua
+## Rahmi Nurazizah (201910370311318) - Anggota
